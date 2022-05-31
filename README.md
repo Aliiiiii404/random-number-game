@@ -1,1 +1,1 @@
-# Ramdon-number-game
+# ramdon-number-game
