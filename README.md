@@ -1,1 +1,1 @@
-# ramdon-number-game
+# ramdon number game with tkinter
